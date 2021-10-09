@@ -1,5 +1,5 @@
-# [Your Name]
+# Shaswat Sankalp
 
-## [Your Year and Stream]
+## Btech final year
 
-## [Add the languages/frameworks you work on comma separated]
+## cpp,javascript
